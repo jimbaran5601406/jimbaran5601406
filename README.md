@@ -18,15 +18,15 @@
 
 Frontend: HTML, CSS, Bootstrap, JavaScript, React
 
-<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/react.svg' width='30'/>
+<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/react.svg' width='30'/>
 
 Backend: PHP, Laravel, MySQL
 
-<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/php.svg' width='40'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/laravel.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/sql.svg' width='30'/>
+<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/php.svg' width='40'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/laravel.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/sql.svg' width='30'/>
 
 Other: AWS, Docker, Git, Wordpress, Vim, Photoshop, XD
 
-<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/aws.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/docker.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/wordpress.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/vim.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/adobe-photoshop.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/main/images/adobe-adobe-xd.svg' width='33'/>
+<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/aws.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/docker.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/wordpress.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/vim.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/adobe-photoshop.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/adobe-adobe-xd.svg' width='33'/>
 
 <br>
 <h2>Qualifications</h2>
