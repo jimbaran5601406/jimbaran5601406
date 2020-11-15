@@ -26,7 +26,7 @@ Backend: PHP, Laravel, MySQL
 
 Other: AWS, Docker, Git, Wordpress, Vim, Photoshop, XD
 
-<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/aws.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/docker.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/wordpress.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/vim.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/adobe-photoshop.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/adobe-adobe-xd.svg' width='33'/>
+<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/aws.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/docker.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/wordpress.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/vim.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/adobe-photoshop.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/adobe-adobe-xd.svg' width='30'/>
 
 <br>
 <h2>Qualifications</h2>
