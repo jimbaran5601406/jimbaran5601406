@@ -18,7 +18,7 @@
 
 Frontend: HTML, CSS, Bootstrap, JavaScript, Angular
 
-<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/angular.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/angular.svg' width='30'/>
+<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/angular.svg' width='28'/>
 
 Backend: PHP, Laravel, C#, .NET, MySQL, SQLServer
 
@@ -33,7 +33,7 @@ Other: AWS, Docker, Git, Wordpress, Vim, Photoshop, XD
 
 AWS Certified Cloud Practitioner<br>
 Oracle Certified Java Programmer, Silver SE 8<br>
-TOEIC L&W 720<br>
+TOEIC L&W 710<br>
 
 <img width="100" alt="java-oracle-silver" src="https://user-images.githubusercontent.com/45201545/99142189-38832200-2696-11eb-8104-ffaffe1f985b.png">
 <img width="100" alt="aws-cloudpractitioner" src="https://user-images.githubusercontent.com/45201545/99142190-39b44f00-2696-11eb-9604-921072ce9c6d.png">
