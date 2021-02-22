@@ -16,13 +16,13 @@
 <br>
 <h2>Skills</h2>
 
-Frontend: HTML, CSS, Bootstrap, JavaScript, React
+Frontend: HTML, CSS, Bootstrap, JavaScript, Angular
 
-<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/react.svg' width='30'/>
+<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/angular.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/angular.svg' width='30'/>
 
-Backend: PHP, Laravel, MySQL
+Backend: PHP, Laravel, C#, .NET, MySQL, SQLServer
 
-<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/php.svg' width='40'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/laravel.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/sql.svg' width='30'/>
+<img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/php.svg' width='40'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/laravel.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/csharp.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/microsoft-dotnet.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/mysql.svg' width='30'/> <img src = 'https://github.com/jimbaran5601406/jimbaran5601406/blob/master/images/sql-server.svg' width='30'/>
 
 Other: AWS, Docker, Git, Wordpress, Vim, Photoshop, XD
 
