@@ -7,11 +7,11 @@
 
 🦸‍♂️Name: Kei Funatsuya
 
-💻Occupation: Web Developer
+💻Occupation: Software Developer
 
 📖Blog: https://myqiita.com
 
-🏢Company: Unlimi
+🏢Company: SOEI Patent & Law Firm
 
 <br>
 <h2>Skills</h2>
