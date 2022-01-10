@@ -9,7 +9,7 @@
 
 💻Occupation: Software Developer
 
-📖Blog: https://myqiita.com
+📖Blog: https://myqiita.net
 
 🏢Company: SOEI Patent & Law Firm
 
